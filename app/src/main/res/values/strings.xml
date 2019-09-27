@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LAYOUT2</string>
+    <string name="Nombre">Luis Angel Torres Vite</string>
+    <string name="Matricula">167010007</string>
+    <string name="Carrera">Ing. TIC\'S</string>
+    <string name="Grupo">7T11</string>
+    <string name="TipoSangre">O +</string>
+</resources>
